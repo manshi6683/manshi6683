@@ -9,7 +9,7 @@
 - 🌱 I’m currently learning **HTML**, **CSS**, **JavaScript**, and modern web tools
 - 🔍 Exploring **full stack development**, **UI/UX**, and **web hackathon projects**
 - 💬 Ask me about anything related to **frontend web dev**
-- 📫 Reach me: your.email@example.com | [LinkedIn](https://www.linkedin.com/in/manshi-432640269/)
+- 📫 Reach me: manshicbse2004@gmail.com | [LinkedIn](https://www.linkedin.com/in/manshi-432640269/)
 - 🧠 Fun fact: I love creative problem solving and learning by doing!
 
 ---
