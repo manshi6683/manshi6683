@@ -24,21 +24,6 @@
 
 ---
 
-## 📈 GitHub Stats
-
-![Manshi's GitHub stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=tokyonight)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=YourGitHubUsername&theme=tokyonight&hide_border=false)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
----
-
-## 🏆 GitHub Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=YourGitHubUsername&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
-
----
 
 ## 📫 Connect With Me
 
